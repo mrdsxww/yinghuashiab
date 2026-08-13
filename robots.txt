@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mrdsxww.github.io/yinghuashiab/sitemap.xml
